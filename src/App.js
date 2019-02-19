@@ -3,7 +3,7 @@ import { Route, Switch } from 'react-router-dom'
 import Home from './pages/Home'
 import Portfolio from './pages/Portfolio'
 import Blog from './pages/Blog'
-import './App.css'
+import './styles/App.css'
 
 class App extends Component {
   constructor(props) {
